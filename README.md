@@ -1,4 +1,4 @@
-# GTA-Vice-City-Remastered-v3
+# GTA Vice City Remastered v3
 
 Essentials: https://www.mixmods.com.br/2020/08/vc-essentials-pack/
 
@@ -9,6 +9,10 @@ SCRLog: https://www.mixmods.com.br/2020/10/iii-vc-sa-scrlog-2020-3-descobrir-cra
 MODS
 
 VRTP: https://www.moddb.com/mods/vrtp-project
+
+Vice City Stories Neons: https://sharemods.com/3i798wgaum0y/Vice_City_Neons.rar.html
+
+Vice City The Leftovers Fixes: https://sharemods.com/rlvlaauwj8ge/Vice_City_The_Leftovers_Fixes.rar.html
 
 Project 2DFX: https://www.mixmods.com.br/2016/08/vc-project2dfx-v4-4/
 
@@ -36,10 +40,20 @@ Sand Castles: https://libertycity.net/files/gta-vice-city/125647-pesochnye-zamki
 
 Proper Weapon Retex+10th Aniversary Icons: https://www.mediafire.com/file/d0wmd95lbvdoymq/Proper_Weapon_Retex.rar/file
 
-Particle HD: https://www.mediafire.com/file/2cw27279e2wkxby/%2528VC%2529_Particle_HD.rar/file
+Particle HD: https://sharemods.com/z1qfojaap99w/_VC__Particle_PS2_HD.rar.html
 
 Fijo de las ventanas después de la explosión: https://gamemodding.com/es/gta-vice-city/scripts/74009-fiks-okon-posle-vzryva.html
 
+Rosenberg's Audio Fix: https://www.gtagarage.com/mods/show.php?id=22234
+
+Destroyable Airtrain: https://www.gtagarage.com/mods/show.php?id=26526
+
+Atmosphere Skydome 2.0: https://www.mixmods.com.br/2018/09/vc-atmosphere-skydome-ceu-realista/
+
+Radio Change Down Fix: https://www.mixmods.com.br/2016/09/vc-radio-change-down-fix-corrigir-mudanca-de-radio/
+
+Remove 0:https://gamemodding.com/en/gta-vice-city/scripts/74012-udalenie-nuley.html
+
 Mapa en el menú: https://www.mixmods.com.br/2022/04/iii-vc-menu-map-radar/
 
-Interfaz HD: 
+Interfaz HD: https://sharemods.com/yqqi3zg8ql88/VC_-Interfaz_HD.rar.html
