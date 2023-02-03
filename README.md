@@ -32,6 +32,8 @@ Real Traffic Fix: https://www.mixmods.com.br/2020/02/vc-sa-real-traffic-fix-v2-1
 
 SkyGfx: https://www.mixmods.com.br/2020/02/iii-vc-skygfx-3-0b/
 
+Mi Configuración: https://www.mediafire.com/file/fe08wvb3fh84iei/VC-skygfx_config.rar/file
+
 Sharptrails: https://www.mixmods.com.br/2018/04/iii-vc-sharp-trails-v2-0a-remover-rastro-blur/
 
 ParticleEx: https://www.mixmods.com.br/2021/10/iii-vc-particleex-sistema-de-efeitos-melhorado/
