@@ -54,6 +54,8 @@ Atmosphere Skydome 2.0: https://www.mixmods.com.br/2018/09/vc-atmosphere-skydome
 
 Radio Change Down Fix: https://www.mixmods.com.br/2016/09/vc-radio-change-down-fix-corrigir-mudanca-de-radio/
 
+GPS Line Mod: https://www.mixmods.com.br/2022/02/iii-vc-sa-gps-line-mod-radar-minimap/
+
 Remove 0:https://gamemodding.com/en/gta-vice-city/scripts/74012-udalenie-nuley.html
 
 Mapa en el menú: https://www.mixmods.com.br/2022/04/iii-vc-menu-map-radar/
